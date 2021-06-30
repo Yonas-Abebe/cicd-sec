@@ -55,7 +55,7 @@
 				<uri>https://anypoint.mulesoft.com</uri>
 				<muleVersion>${mule.version}</muleVersion>
 				<username>username</username>
-				<password>Mayo7882*#*</password>
+				<password>password</password>
 				<environment>env</environment>
 				<applicationName>${appname}</applicationName>
 				<businessGroup>${business}</businessGroup>
