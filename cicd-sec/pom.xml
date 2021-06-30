@@ -56,7 +56,7 @@
 				<muleVersion>${mule.version}</muleVersion>
 				<username>username</username>
 				<password>password</password>
-				<environment>env</environment>
+				<environment>environment</environment>
 				<applicationName>${appname}</applicationName>
 				<businessGroup>${business}</businessGroup>
 				<workerType>${vCore}</workerType>
