@@ -56,7 +56,7 @@
 				<muleVersion>${mule.version}</muleVersion>
 				<username>yoni3</username>
 				<password>Mayo7882*#*</password>
-				<environment>Sandbox</environment>
+				<environment>env</environment>
 				<applicationName>${appname}</applicationName>
 				<businessGroup>${business}</businessGroup>
 				<workerType>${vCore}</workerType>
