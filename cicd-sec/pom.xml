@@ -54,7 +54,7 @@
 			<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com</uri>
 				<muleVersion>${mule.version}</muleVersion>
-				<username>yoni3</username>
+				<username>username</username>
 				<password>Mayo7882*#*</password>
 				<environment>env</environment>
 				<applicationName>${appname}</applicationName>
