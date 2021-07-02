@@ -62,7 +62,7 @@
 				<workerType>${worker.type}</workerType>
 				<workers>${workers}</workers>
 				<objectStoreV2>true</objectStoreV2>
-					<classifier>mule-application</classifier>
+				
 		</cloudHubDeployment>
 	</configuration>
 		<executions>
