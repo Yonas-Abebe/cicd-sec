@@ -59,9 +59,10 @@
 				<environment>anypoint.environment</environment>
 				<applicationName>${appname}</applicationName>
 				<businessGroup>${business}</businessGroup>
-				<workerType>${vCore}</workerType>
+				<workerType>${worker.type}</workerType>
 				<workers>${workers}</workers>
 				<objectStoreV2>true</objectStoreV2>
+					<classifier>mule-application</classifier>
 		</cloudHubDeployment>
 	</configuration>
 		<executions>
